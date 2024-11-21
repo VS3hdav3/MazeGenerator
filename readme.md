@@ -13,7 +13,7 @@ This project generates a maze using the **recursive backtracking algorithm** and
 3. **Maze Visualization**: The maze is drawn to the screen using Pygame, with visited cells and current cells highlighted for better understanding of the algorithm's progression.
 
 <div align="center">
-    <img src="./completed.jpg" alt="Completed Maze" />
+    <img src="./completed.JPG" alt="Completed Maze" />
     <p>Here is a completed Maze generation cycle</p>
 </div>
 
